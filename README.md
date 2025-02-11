@@ -1,4 +1,4 @@
-# **Flow Fields 🎨🎶**
+# **CornField Flow 🎨🎶**
 
 This project is part of the assignment **[un algorithme](https://github.com/rethread-studio/algorithmic-art-course/issues/37)** from the **Algorithmic Art Course**. It explores the concept of [**Flow Fields**](https://en.wikipedia.org/wiki/Vector_field) and was developed using **p5.js**.
 
